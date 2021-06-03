@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a worthy gentleman in Yorke-shire, to his friend a member of the honorable House of Commons Declaring 1. That the Parliament hath, and continually ought to use their zealous indeavours and heartie desires for a thorow reformation in Church and common wealth. 2. That the same meanes the prelates used ... and confounded their carnall wisdome. 3. That the Papists in England and Ireland by their own barbarous, savage and inhumane practises, ... will be the actors and authors of their own tragedies. 4. Shewing through the honourable houses of parliament be by many evill affected people scorned and derided, ... 5. The enemies of the Parliament and kingdome, are papists to root out religion the clergie for bishopricks and pluralities, ... 6. And lastly advise to the Parliament to go on with alacrity but not one foot but to God, to heavenly ends, divine rules, apparant truths, in the churches walkes, and then they shall not want the protection of the Almighty.</title>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92303</idno><idno type="EEBO-CITATION">99895925</idno>
+  <idno type="VID">153510</idno>
+  <idno type="EEBO-PROQUEST">2248577201</idno>
+  
+            <idno type="STC">Wing R60A</idno>
+            <idno type="STC">ESTC R230144</idno>
+            <idno type="PROQUEST">99895925</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895925e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153510)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2368:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a worthy gentleman in Yorke-shire, to his friend a member of the honorable House of Commons Declaring 1. That the Parliament hath, and continually ought to use their zealous indeavours and heartie desires for a thorow reformation in Church and common wealth. 2. That the same meanes the prelates used ... and confounded their carnall wisdome. 3. That the Papists in England and Ireland by their own barbarous, savage and inhumane practises, ... will be the actors and authors of their own tragedies. 4. Shewing through the honourable houses of parliament be by many evill affected people scorned and derided, ... 5. The enemies of the Parliament and kingdome, are papists to root out religion the clergie for bishopricks and pluralities, ... 6. And lastly advise to the Parliament to go on with alacrity but not one foot but to God, to heavenly ends, divine rules, apparant truths, in the churches walkes, and then they shall not want the protection of the Almighty.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Best,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 6. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Powers and duties --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153510:1"/>
+            <pb facs="tcp:153510:2"/>
+            <pb facs="tcp:153510:2"/>
+            <p>A LETTER FROM A WORTHY GENTLEMAN IN YORKE-SHIRE, To His Friend a Member of the Honorable House of Commons.</p>
+            <p>Declaring
+<list>
+                  <item>1 <hi>That the Parliament hath, and continually ought to use their zea<g ref="char:EOLhyphen"/>lous indeavours and heartie desires, for a thorow reformation in Church and common wealth.</hi>
+                  </item>
+                  <item>2 <hi>That the same meanes the Prelates used to advance themselves to pettie deities, and to bury the honor of religion in the grave of oblivion, hath now re<g ref="char:EOLhyphen"/>moved the stones that pressed down truth and piety, and confounded their carnall wisdome.</hi>
+                  </item>
+                  <item>3 <hi>That the Papists in England and Ireland by their own barbarous, savage and inhumane practises, as a just requitall of their villanies, will be the actors and authours of their own Tragedies.</hi>
+                  </item>
+                  <item>4 <hi>Shewing though the honourable houses of parliament be by many evill affected people scorned and derided, yet they ought to goe on chearfully in the establishment of the true Religion, and suffer patiently, after the example of Christ &amp;c.</hi>
+                  </item>
+                  <item>5 <hi>The enemies of the Parliament and kingdome, are papists to root out Re<g ref="char:EOLhyphen"/>ligion the Clergie for Bishopricks and pluralities, cloaked delinouquents that study day and night to make currant their counterfeit conditions.</hi>
+                  </item>
+                  <item>6 <hi>And lastly Advise to the Parliament to go on with alacrity but not one foot but to God, to heavenly ends, divine rules, apparant truths, in the Churches walkes, and then they shall not want the protection of the Almighty.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>R. Best October</hi> 6. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:153510:3"/>
+            <p>
+               <seg rend="decorInit">W</seg>E can speculate nothing in this our Horizon but dismall aspects. <hi>Bella; horrida bella;</hi> horse and armes alwayes in our eyes and ears; and yet we are borne in hand with peace; it seemes armes boads it, both by the profane Souldiers of the sword, and by the licentious and starnizing professors of the Word; both saying that the houses of Parliament are in the wane already, calculating that within one fortnights time, there will be an absolute change: the latter calls for all for the King as a speedy meanes to settle a present peace; and for that purpose do force through their Churches and Parishes, a Petition intituled of the Gentrie &amp; Free holders, &amp;c. at Hewarth-moore to the Parliament: Where no such thing <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s as there intended, by any considerable number, but just the contrary, speaking in the clouds, as though the heavens were presently to be foulded up, and that new heavens and new earth are forthwith to be moulded again, new Parliament, new Lords, mo<g ref="char:EOLhyphen"/>derate Laws, pliable Knights, and Burgesses, their mindes and manners so full of accommodation, as though in stead of vexing Paritans and tormenting Roundheads, they might rowle and tumble without stop or rub to a paradice of union and sympathy: and yet these blinde Egyptians will not see the truth of God which shines so clearly within the circumference of our Goshen; nor view the guards which the blest God of Abraham, Isaack, &amp; Iacob, hath placed about Sion; nor the firy walls which encompasse Jerusalem; neither will they deign to behold the Church of God; though as dear to him as the apple of his eye; whose fruitfull blessings hath alwaies accompanied and waited upon those that have been instruments of her good: of which number I hope your self to be; as now witnesse the constant guard of Angels dayly stopping the passages of Sathan and his adherents against you;
+<note place="margin">The Lords worke at this time is reforma<g ref="char:EOLhyphen"/>tion of Church and State, and sub<g ref="char:EOLhyphen"/>version of their ene<g ref="char:EOLhyphen"/>mies.</note> and enlarging your hearts above humane courage in all affrighting oppositions against your civill and sacred imployments wherein you have fully exprest your zealous endeavours, and hearty desires for a thorow Reformation both of Church and common wealth. And that this also is Gods purpose at this time it will evidently appear to any that hath observed the Lords usuall manner of working in former ages; for it is likely he hath suffered his Church and common wealth to decline, his people to be wearied with so many taxes and heavy oppressions for many yeers together to move and stir them up, like Israel in Egypt, to shake off their tirannicall yokes, and to lay hold on the first opportunity and lawfull means of their long desired freedome whereas if the Church and common wealth had continued in their perscribed formes and rules neither spiritualty nor lalty could ever have thought; much lesse have un<g ref="char:EOLhyphen"/>dertaken to involve themselves in so difficult a Laborinth as this hath been. And whereas the aspiring Clergie would have by little and little imagined themselves to have been some ptety deities long ere now; if by chance look<g ref="char:EOLhyphen"/>ing down their black and earthy feet had not appeared below their white robes to male content (with the Swan) their overweaved conceits; and to frustrate their owne vaine and emptie fantasies: therefore that they might still
+<pb facs="tcp:153510:3"/>retaine some Majestie and superintendency above man, the better to insinuate their spirituall impositions, or r<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther to force their tyranicall oppressions, have laboured to transform themselves into the Statutes of immortall Gods,
+<note place="margin">Woe to him that saith to the wood arise, it shall teach: behold it is laid o<g ref="char:EOLhyphen"/>ve with Gold, &amp;c and their is noe breath in it.</note> that so for fear of their powerfull shapes, and by vertue of their shrines, their livelesse and mute professions, their <hi>non vox hominum</hi> implying that admirati<g ref="char:EOLhyphen"/>on <hi>O deum cortè; cerre imagines;</hi> might serve to acquire some simple respects; and attract some plaine countrie reverence; But God hath drawn that vai<g ref="char:EOLhyphen"/>led curtaine to let men see they are but sonnes of the earth; too drossie substance to ascend divine clymates, too farre unsutable for heavenly copes, charactered, and pictured out by the heavenly Prophet in worthlesse crea<g ref="char:EOLhyphen"/>tures, dumb dogs, being abjects, and contemptible objects of scorn for all sorts of people: so that by that self same means whereby they had thought to have advanced themselves and buried the power of Religion, in the grave of oblivion, it hath pleased him to effect his own ends to over<g ref="char:EOLhyphen"/>shoot them in their owne bowes, to confound their carnall wisdome, to remoove the stones that pressed down truth and piety; and to smooth the way, for the lustre and glory of his diuine worship.
+<note place="margin">Habbakuk. 2.19.</note> How miserable then are they who when they are highest? abuse their power to keep the people of God lowest, for though they,
+<note place="margin">Zachariah 10.2.11.17.</note> who should be nursing fathers and mothers to the Church of God forsake her and become her enemies; they shall perish, yet comfort and deliverance shall still appear to Gods people, either by one or o<g ref="char:EOLhyphen"/>ther. When the appointed time of mercy was come that the people of Israel should be delivered from captivity, he so ordered the state of earthly power afor the a complishment of his will,
+<note place="margin">Isaiah. 2 10.</note> that no impediment might hinder Cyrus from performing of his promised deliverance; so the Lord that he may worke his reformation by manumitting us from Egyptian slavery,
+<note place="margin">Malachy. 2.8.</note> and redeeming us from Babylonish captivity, hath reunited England and Scotland that they may be cohelpers; hath so subjugated, and muzled the bloudhounds of Ireland that we are in no great danger of their rebellious and savage teeth, other nati<g ref="char:EOLhyphen"/>ons also having their respective prizes to play that so your heavenlyaimes mau<g ref="char:EOLhyphen"/>gre all hellish inventions whatsoevr may produce blessed and peaceable con<g ref="char:EOLhyphen"/>clusions. But I heare some say the case is not so cleare, as we take it to be;
+<label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> yes it is judged already; but we must temper our spirits with patience, and not think to <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> conquer at the first strroke, nor expect to have the prize before we have runne the course. The children of Israel were sure of victorie in their peregri<g ref="char:EOLhyphen"/>nation to Canaan; and yet they were forced to strive till they got possessions let us herein exercise our faith, and knit the beginning, progresse and end to<g ref="char:EOLhyphen"/>gether, and we shall soon see, that he that begun this worke will in good time bring it to perfection: for where Christ begins to rule, he rules for ever; of his kingdome there is no end. When the fuell strives with the fire the heel kicks a<g ref="char:EOLhyphen"/>gainst the prick; and when the creature advanceth himself against his Creator it is easie to inferre the conquest. What if Antichrist doth march furiously, and his supports use their utmost endevours and parts to trample upon truth and pi<g ref="char:EOLhyphen"/>ety?
+<pb facs="tcp:153510:4"/>they can extinguish their light no more then the morning clonds can doe the sunnes, which by little and little expells their gatherings, and wastes their packs, that in an iustant none of them are to be seene. Can we think that he which threw the angels out of heaven, will suffer mortalls to run a contrary course without either curbe or bridle, and to prevail against heavenly pow<g ref="char:EOLhyphen"/>ers? was there ever any fierce against God and prospered? surely the rage of man contrary to his owne intendment shall turn to the praise of Christ, and furtherance of that work which God in his appointed time hath proposed to himself,
+<note place="margin">Subversion of the e<g ref="char:EOLhyphen"/>nemies.</note> as now (blessed be God) before our eyes we may see in Ireland, for could ever flesh and bloud have attempted the subversion of those matchlesse multitudes in their own countrie, if they had not made rods for their own corre<g ref="char:EOLhyphen"/>ction &amp; engine for their utter ruin? or could a Christians hart, so merciful, pitiful, tender, and so full of compassion, have ever thought of any bloudie enterpri<g ref="char:EOLhyphen"/>ses or destructive designes against them had they not pulled them upon their own heads by their own barbarous, savage and inhumane practises as a just re<g ref="char:EOLhyphen"/>quitall of their own villanies? As for our own Papists, they now shew of what spirit they are; They have got their heads so much into the winde that they cannot be turned by a gentle hand, whose insolencies and provocations re<g ref="char:EOLhyphen"/>bound so high, that any finger may point at the mark of their hearts by the levell of their tongues, so that we need not doubt but their judgements also will fall upon them, so soon as their treacheries are grown to full maturity, yet these men had they guided themselves modestly, and tempered themselves civilly, be<g ref="char:EOLhyphen"/>ing all either allied kinsmen, or intimately friendly and familiar with either one or other, how ha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dly could they have been rooted out by any impartiall doom? and this is the Lords doing, that they should be justly offensive, and it is marveilous in our eyes that they should be actours of their own tragedies: and yet we are so void of all sense,
+<label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> that we will neither see, heare, nor give thanks to God for those things which make for our peace. <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> Ye<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I heare some say, they are so farre from rooting out, that they rather encrease and rise againe: it is true, but onely to harden them that they may receive the greater fall, for howsoever the church hath justly provoked God, yet the cause shall stand impregnable &amp; as firm as a rock to dash in pieces all waves, &amp; stroms of threatning oppositions, For Christ is King of Kings and Lord of Lords &amp; wil not suffer dust &amp; worms-meat alwayes to ruffle his beloved spouse; for Babylon shall fall;
+<label type="milestone">
+                  <seg type="milestoneunit">Objection </seg>
+               </label> for strong is the Lord that hath condemned her. Nay the Parliament shall fall saies some; <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> for almost all have left it. Just as Gedeons 32000 too many to fight the Lords battell, were reduced to 300 upon triall approved for a suffi<g ref="char:EOLhyphen"/>cient number to vindicate the honour of God. What if some be gone out from them who was not of them? What if God would not honour them to fight his battle against the mightie? Cannot God effect his own ends without a set number? Does not Gods glorie appeare more without meanes then with meanes;
+<label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> more with lesse meanes then with greater? Can God (sayes one) get none but a companie of roundheads, puritanes, seditious, factious, beg<g ref="char:EOLhyphen"/>gerly
+<pb facs="tcp:153510:4"/>fello wes to labour in his cause? who are all for scismes and their owne ends? O how far are these from discharging their duties,
+<label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> in giving to these pub<g ref="char:EOLhyphen"/>lick ministers of the state the best interpretation that their actions will beare; that they invert all their honest actions, and traduce and reproach their inno<g ref="char:EOLhyphen"/>cent persons? but it is no matter, for it was Christs and Iohns lot, austere Iohn hath a devill, sociable Christ is a wine bibber, &amp;c. Whereas the holinesse of the one should have procured reverence, and the sociablenesse of the other beene rewarded with love; but it is the lot of them and all christians, the dis<g ref="char:EOLhyphen"/>ciple is not above his Master. Men may doe well, but must look to heare ill; wicked men, when they learn to think well, they will learn to speak well; and no marvell if man want his praise, when God is without his deserved glorie. Wheresoever Christ cometh, there will be divisions, that the verie thoughts of mens hearts may be laid open: The flesh alwayes rebells against the spirit and endeavours to maintain its own regencie, and crieth down whatsoever crosseth it, be they lawes whether humane or divine, be they never so well framed for repairing the breaches both of Church and Common-wealth, View the oppo<g ref="char:EOLhyphen"/>sers of this Parlament, and you shall finde them like so many wilde beasts head<g ref="char:EOLhyphen"/>ing together to breake downe the s<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts and hedges of this vineyard; First you have the Papists encompassing both Sea and Land to roote out our religion, then have you the Clergie courting for Bishopricks and Canterburiing for plu<g ref="char:EOLhyphen"/>ralities; Thirdly, The thirstie souldier gapes with open mouth to swallow down the golden juice of this kingdome; Lastly, the cloked delinqents that dare not come neare the touch-stone, they studie day and night to make currant their counterfeit conditions: These are the aymes of these men, whose inve<g ref="char:EOLhyphen"/>ctives must carrie such credit with them as alone to condemne those men whose words may be lawes, and lives rules, for them to square their actions by, whose outward man may serve as looking glasses for them everie morning to discover the spots and stains of their colluding thoughts and corrupted conver<g ref="char:EOLhyphen"/>sations, <hi>Contraria interse opposita magis elucescunt,</hi> it would be lost Jabour to cōpare the together, <hi>aliud noctua sonat aliud cornix:</hi> They are so farre sundred, and distanced in qualities, that any purblind critick may justly carp at those tricks whereby they play their game, so that there is no hazzard at all in the cause; for sincerity will demonstrate it self in plain and untraversable evidences, and seale up its deeds with such authenticall witnesses, as that it shall not need to bribe si<g ref="char:EOLhyphen"/>pister and indirect meanes to make it transparent in the great Quest of this common wealth, <hi>Veritas non quaerit angulos,</hi> Truth is bold and like a standard<g ref="char:EOLhyphen"/>bearer will manifest it self before all the world: let therefore your ends be heavenly, the bent and sway of your resolutions holy, winde up your soules higher and higher, soare and mount up cloft, and then no plots below, no stormie designes beneath, can beat you from your wished haven: for in vaine is the net spre<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the sight of that th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t hath winges. Thus may you raise your self above the reach of humane policie; and make your self safe in spight of Sathan and his complices. I have blessed Jacob and he shall bee
+<pb facs="tcp:153510:5"/>blessed, but can you not spare, or have you not provided; one blessing for us also? Yes promote your begun Reformation in truth and sincerity, and it will di<g ref="char:EOLhyphen"/>vert all imminent plagues whatsoever, for where there is repentance it will bind up Gods hāds by his promises that he canot powre out his vialls of wrath upon us, and where there is reformation without which there can be no re<g ref="char:EOLhyphen"/>pentance, there is alively expression and vigorous manifestation of repentance as we may now see begun &amp; declared in our heads. But still I heare cursings upō Meroz &amp; the inhabitanfs thereof, t were to be wished that every county &amp; kin<g ref="char:EOLhyphen"/>dred would lay their hands upon their harts, &amp; see how forward or rather frow<g ref="char:EOLhyphen"/>ard they have beene in the grand concernments of this Church and common<g ref="char:EOLhyphen"/>weale, that when they which have done most may see they have but done their parts, they which have beene contrary minded may redeeme their by<g ref="char:EOLhyphen"/>gone neglects and perversenesse by their more earnest and present indevours to prevent the bitter evils which the angells of God are ready to let fall upō us. Can meat fatisfy the hungry wight? &amp; drink appease the thirsty soul if they be not tasted &amp; digested? shall we hunger an thirst forthe blessings of our king<g ref="char:EOLhyphen"/>dome, the fruits of this Paliament, and desire to be feasted with them, and will neither comply with them, nor apply them to our selves, that they may be fit nourishment for our livelihoods? Nay like stocks and stones we lie in their way, and yet we crie out they run no faster on, and like Remoraes we retard their Navigations, and yet want patience to expect their arrivall, we under<g ref="char:EOLhyphen"/>mine them by all assayes. and yet we proclame to all the world that they goe not forward upon sure grounds; were these the helps that former Sages recei<g ref="char:EOLhyphen"/>ved? or was ever such requitalls heaped upon the grave consultations of anci<g ref="char:EOLhyphen"/>ent times, <hi>O quantum mutati ab i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is?</hi> how farre are we degenerated from our for<g ref="char:EOLhyphen"/>mer births and strains, if we consider the mutuall correspondencie, of our fore<g ref="char:EOLhyphen"/>fathers who lived together; <hi>ac si omne<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ejusdem musae essent ae<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>u<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> every man stud<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLunhyphen"/>ing how to ac<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommodate his neighbour in what might advance his prefer<g ref="char:EOLhyphen"/>ment, every man more officious then other forthescommon good, gird your selves therefore with undanted res<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lutions that thee vexing distempers, being removed, you may reduce us to those pristine times, so friendly in their famili<g ref="char:EOLhyphen"/>arities and sympathies, to fruitfull in neighbourly passages, of intimacie and dearnesse, go on with alacrity, but set not one foot forward without your God; be so true to heavenly ends, and fast to divine rules that no hopes or fears bee able to sway you from apparent truths; for assure your selves so long as you are in the churches walkes, you shall not want the protection of the Almighty. <hi>Nec flexit humeros molis immense labor<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, immota cervix coelum &amp; sideratulit.</hi> Hercules was but one, and what wonders he hath done fame hath made report; Atlas he hath born that high and burthen Paramount, transcending all comparison and without any joynt-tenant of that unweildy weight, but you are many, <hi>vis u<g ref="char:EOLhyphen"/>nita <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortior,</hi> many hands make light work, and the choice workmen of our king<g ref="char:EOLhyphen"/>dome also, able if need require to build a new worlds much more skilfull
+<pb facs="tcp:153510:5"/>to close the gappes, and binde up the wounds of a little common wealth, a few propps upholds a ruinous house. What if Giants assault you? <hi>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>va lernae monstra, numerosum matum docuit mori.</hi> David cut off that out-daring Goli<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>h and if more heady monsters of mankinde doe still bud out take notice of that conquerer, and you may know his weapons also. There is no horrid or monst<g ref="char:EOLhyphen"/>rous villany hatched either by Sea or Land, but it is mortall, it cannot exceed its growth, nor passe its limits, for space and leisure will either weare them out, or truth expell their poison, or time calcine them to their first principles againe: what if <hi>nulla lux u<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>quam secura ful<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> what if <hi>finis u<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ius mali <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>turi?</hi> though every day hath threatned your fall, yet experience hath seen the furious fates to have had their owne destinies; and that the rageing and gloomie daies have often bin silenced upon faire and cleere termes, and though rest<g ref="char:EOLhyphen"/>lesse assaults as they spring up linke themselves together against you, yet if your comforts, as we hope, grow and multiply with them, you shall out-<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ride all their engines with invincible courage, for victory over by-gone practises promises victory over all succeding intended evills; the sharper the conflict, the more honourable shall be your conquest; when the Lord of Hoasts shall crowne your actions with trophies of everlasting fame and immortality, when after-yeares shall make report, how you have emulated the stoutest of times, and stood out to the hazard of your dearest blood for the reparing and vindicating the honour and glory of your great God, for the advancing your King, and preserving his Dominions, for the enacting lawes for freeing your Country from slavery and bondage. O how soveraigne then will be your present praise, <hi>digito monstrari &amp; dicur hic est,</hi> when every tongue shall be telling, how you and he, and the rest have done things never to be forgotten when the labour is gone, the danger out of doubt, then the glory of the cause will be your owne, <hi>haec olim meminisse iuvabit,</hi> good God <hi>ab his cripe flammis &amp; iam tandemgra<g ref="char:EOLhyphen"/>vibus aerumais statue modum finemque cladi,</hi> deliver us from all the fiery contentions of these daies, and let not the double guilt of our high ingratitude die us in our purest blood, give boundes to these mercilesse waves which threaten to ship<g ref="char:EOLhyphen"/>racke our welfare for ever, and secure our honest commerces with calme roads to safe harbours, blesse the season of the summer unto us, and grant that at last comfortable issues may flow from the well-springs of our hearty desires, that no alarum be heard by night, no lamentations by day, nor let dolefull dit<g ref="char:EOLhyphen"/>ties at any time hereafter ever sound out to our suceeding posterities the discor<g ref="char:EOLhyphen"/>ding jarrs of forefathers unhappy divisions.</p>
+            <p>Thus presenting my love and service unto you in the weake expressions of my apprehensions of these times, not as doubting of your constancie in your station, but that thus I thought fit to manifest my setled resolutions in this com<g ref="char:EOLhyphen"/>mon cause wherein I hope the God of heaven will not onely blesse you but also</p>
+            <closer>
+               <signed>Your Loving Cosen, <hi>R. R.</hi>
+               </signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <pb facs="tcp:153510:6"/>
+                  <l>The fates foretell the starres and times decree:</l>
+                  <l>That you a scourge to Papists now must be:</l>
+                  <l>That you your opprest Kingdome having borne,</l>
+                  <l>It being free, your selves, and it adorne</l>
+                  <l>With peace, with plenty, and blessings divine,</l>
+                  <l>Such as no heart can wish, or tongue define.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153510:6"/>
+            <pb facs="tcp:153510:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
